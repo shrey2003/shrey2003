@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrey2003
 - 👀 I’m interested in competitive programming,web development,AI,ML and open source
-- 🌱 I’m currently learning C++,CSS,HTML
+- 🌱 I’m currently learning C++,CSS,HTML,Javascript,ReactJs
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at shreymishra0307@gmail.com
 
