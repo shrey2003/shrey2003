@@ -34,7 +34,7 @@
 </div>
 </p>
 
-<p align="center">CONTACT ME:</p>
+<p align="center">CONTACT ME: </p>
 <p>
 <div align="center">
 	<a href="https://www.instagram.com/shrey_a_mishra_03/" rel="nofollow">
