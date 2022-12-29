@@ -34,7 +34,7 @@
 </div>
 </p>
 
-<p align="center">CONTACT ME: </p>
+<p align="center"><b>CONTACT ME : </b></p>
 <p>
 <div align="center">
 	<a href="https://www.instagram.com/shrey_a_mishra_03/" rel="nofollow">
@@ -50,8 +50,8 @@
 
 <br/>
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shrey2003&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey2003&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shrey2003&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=shrey2003&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
