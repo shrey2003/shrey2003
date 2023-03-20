@@ -50,14 +50,14 @@
 
 <br/>
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shrey2003&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true">
+    <img width="49.5%" src="https://github-readme-stats-shrey2003.vercel.app/api?username=shrey2003&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=shrey2003&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
 
 <p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey2003&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats-shrey2003.vercel.app//api/top-langs/?username=shrey2003&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
