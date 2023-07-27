@@ -40,7 +40,7 @@
 	<a href="https://www.instagram.com/shrey_a_mishra_03/" rel="nofollow">
   		<img alt="Shreya Mishra's Instagram" width="27px" src="https://github.com/shreyashkr17/shreyashkr17/raw/master/img/instagram-dark.svg" style="max-width: 100%;">
 	</a>
-	<a href="https://www.linkedin.com/in/shreya-mishra-950055119/" rel="nofollow">
+	<a href="https://www.linkedin.com/in/shreya-mishra03/" rel="nofollow">
   		<img alt="Shreya Mishra's LinkedIn" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
 </div>
