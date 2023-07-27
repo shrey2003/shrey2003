@@ -41,7 +41,7 @@
   		<img alt="Shreya Mishra's Instagram" width="27px" src="https://github.com/shreyashkr17/shreyashkr17/raw/master/img/instagram-dark.svg" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/shreya-mishra03/" rel="nofollow">
-  		<img alt="Shreya Mishra's LinkedIn" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Shreya Mishra's LinkedIn" width="27px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="max-width: 100%;">
 	</a>
 </div>
 </p>
